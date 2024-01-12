@@ -1,7 +1,10 @@
 ### Hi there 👋 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=TwitchCounterPoints&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/TwitchCounterPoints)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=Discord-BotKey&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/Discord-BotKey)
 
-![Моя Статистика](https://github-readme-stats.vercel.app/api?username=mjkey&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkey&theme=synthwave&locale=ru&hide_border=true&card_width=600px)](https://github.com/mjkey)
+
 <!--
 **MjKey/MjKey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
