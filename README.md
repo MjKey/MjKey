@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
 
+
+![Моя Статистика](https://github-readme-stats.vercel.app/api?username=mjkey&show_icons=true&theme=radical)
 <!--
 **MjKey/MjKey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
