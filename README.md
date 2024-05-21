@@ -2,6 +2,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=TwitchCounterPoints&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/TwitchCounterPoints)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=Discord-BotKey&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/Discord-BotKey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=WBPalletExcel2PDF&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/Discord-BotKey)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkey&theme=synthwave&locale=ru&hide_border=true&card_width=600px)](https://github.com/mjkey)
 
