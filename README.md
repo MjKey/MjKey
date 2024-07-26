@@ -4,7 +4,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=TwitchCounterPoints&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/TwitchCounterPoints)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=WBPalletExcel2PDF&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/WBPalletExcel2PDF)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=Discord-BotKey&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/Discord-BotKey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=DonatonTimer&theme=radical&locale=ru&hide_border=true)](https://github.com/MjKey/DonatonTimer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=HDC-Overlay&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/HDC-Overlay)
 
 
