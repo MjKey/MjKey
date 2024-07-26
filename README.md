@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkey&theme=synthwave&locale=ru&hide_border=true&card_width=600px)](https://github.com/mjkey)
 
-[![My Skills](https://skillicons.dev/icons?i=dart,js,html,css,jquery,php,py,git,au,ps,blender,codepen,bots,github,idea,vscode)](https://mjkey.ru/)
+[![My Skills](https://skillicons.dev/icons?i=dart,js,html,css,jquery,php,py,git,ps,blender,codepen,bots,github,idea,vscode)](https://mjkey.ru/)
 
 <!--
 **MjKey/MjKey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
