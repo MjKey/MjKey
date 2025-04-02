@@ -4,8 +4,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=DonatonTimer&theme=radical&locale=ru&hide_border=true)](https://github.com/MjKey/DonatonTimer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=WBPalletExcel2PDF&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/WBPalletExcel2PDF)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=Sponger&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/Sponger)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=TwitchCounterPoints&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/TwitchCounterPoints)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=InzoiModsManager&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/InzoiModsManager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=Mods-Manager-MR&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/Mods-Manager-MR)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkey&theme=synthwave&locale=ru&hide_border=true&card_width=600px)](https://github.com/mjkey)
