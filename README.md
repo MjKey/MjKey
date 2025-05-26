@@ -2,8 +2,8 @@
 
 > 𝒫𝐸𝑅𝒮𝒪𝒩𝒜𝐿 𝒮𝐼𝒯𝐸 >>> [🦋](https://mjkey.ru/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=DonatonTimer&theme=radical&locale=ru&hide_border=true&ok)](https://github.com/MjKey/DonatonTimer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=Twitch-Chat-EdgeTTS&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/Twitch-Chat-EdgeTTS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=DonatonTimer&theme=radical&locale=ru&hide_border=true&ok)](https://github.com/MjKey/DonatonTimer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=InzoiModsManager&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/InzoiModsManager)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=Mods-Manager-MR&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/Mods-Manager-MR)
 
