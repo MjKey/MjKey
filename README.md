@@ -5,7 +5,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=Twitch-Chat-EdgeTTS&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/Twitch-Chat-EdgeTTS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=DonatonTimer&theme=radical&locale=ru&hide_border=true&ok)](https://github.com/MjKey/DonatonTimer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=InzoiModsManager&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/InzoiModsManager)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=Mods-Manager-MR&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/Mods-Manager-MR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mjkey&repo=Ru1080Twitch&theme=radical&locale=ru&hide_border=true)](https://github.com/mjkey/Ru1080Twitch)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkey&theme=synthwave&locale=ru&hide_border=true&card_width=600px)](https://github.com/mjkey)
